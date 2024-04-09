@@ -7,7 +7,7 @@ callback: function(position) {
 }
 });
 
-AOS.init();
+// AOS.init();
 
 
 const toggleButton = document.getElementsByClassName('toggle-button')[0]
