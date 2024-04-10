@@ -32,25 +32,39 @@ To run this project locally, follow these steps:
 Description: This is a Landing Page Design Of Nike (Nike clone).
 
 Technologies Used: ReactJS
+
 GitHub Repository: https://github.com/MaithiliKawale/nike-landing-page
+
 Live Demo: https://nike-landing-page-kohl-tau.vercel.app/
+
 
 ### Project 2: Gpt-3 Landing page
 Description: Gpt3 is an OpenAI Landing page.
-Technologies Used: ReactJS
-GitHub Repository: https://github.com/MaithiliKawale/Gpt3-landing-page
+
+Technologies Used: ReactJS.
+
+GitHub Repository: [https://github.com/MaithiliKawale/Gpt3-landing-page]
+
 Live Demo: https://gpt3-landing-page-nine.vercel.app/
+
 
 ### Project 3: Apple Mart
 Description: Apple Mart is an E-Commerce store.
+
 Technologies Used: ReactJS, React Router, Redux
+
 GitHub Repository: https://github.com/MaithiliKawale/Apple-mart
+
 Live Demo: https://apple-mart-two.vercel.app/
+
 
 ### Project 4: Pomodoro Timer
 Description: This is a 25-minute work and 5-minute break system that helps you boost productivity.
+
 Technologies Used: ReactJS, Framer motion.
+
 GitHub Repository: https://github.com/MaithiliKawale/Pomodoro-app
+
 Live Demo: https://pomodoro-app-pi-gray.vercel.app/
 
 
