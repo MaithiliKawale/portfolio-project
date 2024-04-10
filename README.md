@@ -30,6 +30,7 @@ To run this project locally, follow these steps:
 
 ### Project 1: Nike Landing page
 Description: This is a Landing Page Design Of Nike (Nike clone).
+
 Technologies Used: ReactJS
 GitHub Repository: https://github.com/MaithiliKawale/nike-landing-page
 Live Demo: https://nike-landing-page-kohl-tau.vercel.app/
