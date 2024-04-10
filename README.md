@@ -29,7 +29,7 @@ To run this project locally, follow these steps:
 ## Portfolio Projects
 
 ### Project 1: Nike Landing page
-Description: This is a Landing Page Design Of Nike (Nike clone)
+Description: This is a Landing Page Design Of Nike (Nike clone).
 Technologies Used: ReactJS
 GitHub Repository: https://github.com/MaithiliKawale/nike-landing-page
 Live Demo: https://nike-landing-page-kohl-tau.vercel.app/
@@ -48,7 +48,7 @@ Live Demo: https://apple-mart-two.vercel.app/
 
 ### Project 4: Pomodoro Timer
 Description: This is a 25-minute work and 5-minute break system that helps you boost productivity.
-Technologies Used: ReactJS, Framer motion
+Technologies Used: ReactJS, Framer motion.
 GitHub Repository: https://github.com/MaithiliKawale/Pomodoro-app
 Live Demo: https://pomodoro-app-pi-gray.vercel.app/
 
