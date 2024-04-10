@@ -375,6 +375,10 @@ h3{
     position: relative;
 } 
 
+.card-img{
+    position: relative;
+}
+
 .action{
     position: absolute;
     top: 0;
@@ -719,5 +723,3 @@ footer{
         width: auto;
     }   
 }
-
-
